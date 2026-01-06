@@ -1,7 +1,7 @@
   # 🚀 SHYAM-MD 🔥
 
 <p align="center">
-  <img src="[https://files.catbox.moe/nztndy.jpg](https://ibb.co/NgyvdyZS)" width="70%" alt="Main Graphic" />
+  <img src="[https://files.catbox.moe/ii7qmc.jpg](https://i.ibb.co/spVfdVyH/DEX-SHAYAM.jpg)" width="70%" alt="Main Graphic" />
 </p>
 
 ---
