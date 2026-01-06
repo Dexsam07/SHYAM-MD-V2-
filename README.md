@@ -1,34 +1,36 @@
 # 🚀 SHYAM-MD V2 🔥
 
 <p align="center">
-  <img src="https://i.ibb.co/spVfdVyH/DEX-SHAYAM.jpg" width="100%" style="border-radius: 15px;" alt="SHYAM-MD-LOGO" />
+  <img src="https://files.catbox.moe/ia1yfk.png" width="80%" alt="SHYAM-MD-LOGO" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dexsam07/my-session-generator/stargazers"><img src="https://img.shields.io/github/stars/Dexsam07/my-session-generator?style=for-the-badge&color=yellow" alt="stars"></a>
-  <a href="https://github.com/Dexsam07/my-session-generator/network/members"><img src="https://img.shields.io/github/forks/Dexsam07/my-session-generator?style=for-the-badge&color=blue" alt="forks"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Version-8.0.0-blue?style=for-the-badge" alt="version"></a>
   <a href="https://chat.whatsapp.com/IOEbmfzOD6d9TCjdX5Fi3B"><img src="https://img.shields.io/badge/WhatsApp-Group-green?style=for-the-badge&logo=whatsapp" alt="Group"></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-Apache--2.0-red?style=for-the-badge" alt="license"></a>
 </p>
 
 ---
 
-### 🌟 TOP FEATURES
-* 📸 **Auto Status Seen:** Automatically view statuses.
-* 🛡️ **Anti-Delete:** Prevent messages from being deleted for you.
-* 🎧 **Music Player:** High-quality music downloading.
-* 🔗 **Anti-Link:** Protect your groups from spam links.
+### 🌟 BOTS MAIN FEATURES
+* 📸 **Auto Status Seen:** Automatically views status updates.
+* 🎧 **Music & Video:** High-quality downloads from YouTube.
+* 🔗 **Anti-Link:** Protects groups from spam links.
+* 🛡️ **Anti-Delete:** Retrieves deleted messages instantly.
+* 🤖 **Always Online:** Keeps your bot active 24/7.
 
 ---
 
-## ⚙️ Setup & Deployment
+## 🛠️ Setup Instructions
 
-### 1️⃣ Get Your Session ID
-Pehle niche diye gaye button par click karein aur WhatsApp link karke Session ID hasil karein:
-<p align="left">
-  <a href="https://my-session-generator-1-c5io.onrender.com"><img src="https://img.shields.io/badge/GET%20SESSION%20ID-orange?style=for-the-badge&logo=render" width="200" /></a>
-</p>
+### 1️⃣ Step: Get Session ID
+Generate your unique Session ID by linking your WhatsApp account here:
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://my-session-generator-1-c5io.onrender.com)
 
-### 2️⃣ Deploy to Bot-Hosting
-Session ID milne ke baad **bot-hosting.net** par jayein aur ye command run karein:
+### 2️⃣ Step: Fork This Repo
+Click the **Fork** button at the top right of this page to save a copy to your account.
+
+### 3️⃣ Step: Deploy to Hosting
+Use **bot-hosting.net** or any VPS with the following startup command:
 ```bash
 npm install && npm start
